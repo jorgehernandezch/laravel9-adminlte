@@ -1,8 +1,8 @@
-# Laravel 8 con Platilla AdminLTE
+# Laravel 9 con Platilla AdminLTE
 
 ## Comenzando 🚀
 
-_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 8._
+_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 9._
 
 ### Pre-requisitos 📋
 
@@ -27,8 +27,8 @@ Verifica las versiones de cada uno de ellos
 
 Versión PHP - 8.0  
 Versión Mysql - 5.7.34  
-Versión Composer - 2.3.5 
-Versión NPM - 8.15.0 
+Versión Composer - 2.3.5  
+Versión NPM - 8.15.0  
 
 ### Instalación 🔧
 
