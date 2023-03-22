@@ -1,4 +1,4 @@
-# Laravel 9 con Platilla AdminLTE
+# Laravel 9 con Platilla AdminLTE 
 
 ## Comenzando 🚀
 
